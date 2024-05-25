@@ -37,7 +37,7 @@ Siete invitati a contribuire migliorando i contenuti, aggiungendo nuove soluzion
 Per qualsiasi domanda o suggerimento, non esitate a contattarmi!
 ## Authors
 
-- [@octokatherine](https://www.github.com/Luigizack12)
+- [@Luigizack12](https://www.github.com/Luigizack12-Kodland)
 
 
 
